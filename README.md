@@ -1,15 +1,5 @@
 # Healthcare_Project
 
-## Table of content 
-- [Project Overview](Project-Overview)
-- [Data Source](Data-source)
-- [Tools Data](Tools-Data)  
-- [Data Cleaning Process](Data-Cleaning-Process)  
-- [Exploratory Data Analysis](Exploratory-Data-Analysis)
-- [Data Analysis](Data-Analysis)
-- [Result](Result)
-- [Recommendations](Recommendations)
-
 ### 📌 Project Overview
 
 This project focuses on transforming raw healthcare data into a clean, structured dataset and building an interactive Tableau dashboard.
