@@ -56,8 +56,8 @@ Interactive filters included:
 - Valid visit date
 
 ### 🖼 Dashboard Preview
+![hospital image dash](https://github.com/user-attachments/assets/36e48a46-4b50-4ebf-ac1b-7a80699c7328)
 
-Replace with your actual dashboard image
 
 ### ✅ Results
 
