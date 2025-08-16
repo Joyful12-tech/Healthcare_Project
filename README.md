@@ -7,7 +7,7 @@
 - [Data Cleaning Process](Data-Cleaning-Process)  
 - [Exploratory Data Analysis](Exploratory-Data-Analysis)
 - [Data Analysis](Data-Analysis)
-- [Result]{Result)
+- [Result](Result)
 - [Recommendations](Recommendations)
 
 ### 📌 Project Overview
